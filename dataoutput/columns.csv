@@ -1,0 +1,113 @@
+,0
+0,listing_id
+1,summary
+2,space
+3,description
+4,neighborhood_overview
+5,transit
+6,xl_picture_url
+7,host_id
+8,host_since
+9,host_about
+10,host_response_rate
+11,host_acceptance_rate
+12,host_is_superhost
+13,host_neighbourhood
+14,host_verifications
+15,host_has_profile_pic
+16,host_identity_verified
+17,neighbourhood_group_cleansed
+18,is_location_exact
+19,accommodates
+20,bathrooms
+21,bedrooms
+22,beds
+23,price_x
+24,number_of_reviews
+25,review_scores_rating
+26,review_scores_accuracy
+27,review_scores_cleanliness
+28,review_scores_checkin
+29,review_scores_communication
+30,review_scores_location
+31,review_scores_value
+32,requires_license
+33,instant_bookable
+34,require_guest_profile_picture
+35,require_guest_phone_verification
+36,reviews_per_month
+37,bed_type_Airbed
+38,bed_type_Couch
+39,bed_type_Futon
+40,bed_type_Pull-out Sofa
+41,bed_type_Real Bed
+42,cancellation_policy_flexible
+43,cancellation_policy_moderate
+44,cancellation_policy_strict
+45,host_response_time_a few days or more
+46,host_response_time_within a day
+47,host_response_time_within a few hours
+48,host_response_time_within an hour
+49,property_type_Apartment
+50,property_type_Bed & Breakfast
+51,property_type_Boat
+52,property_type_Bungalow
+53,property_type_Cabin
+54,property_type_Camper/RV
+55,property_type_Chalet
+56,property_type_Condominium
+57,property_type_Dorm
+58,property_type_House
+59,property_type_Loft
+60,property_type_Other
+61,property_type_Tent
+62,property_type_Townhouse
+63,property_type_Treehouse
+64,property_type_Yurt
+65,room_type_Entire home/apt
+66,room_type_Private room
+67,room_type_Shared room
+68,Amenities_TV
+69,Amenities_Cable_TV
+70,Amenities_Internet
+71,Amenities_Wireless_Internet
+72,Amenities_Air_Conditioning
+73,Amenities_Kitchen
+74,Amenities_Heating
+75,Amenities_Family_Kid_Friendly
+76,Amenities_Washer
+77,Amenities_Dryer
+78,Amenities_Free_Parking_on_Premises
+79,Amenities_Buzzer_Wireless_Intercom
+80,Amenities_Smoke_Detector
+81,Amenities_Carbon_Monoxide_Detector
+82,Amenities_First_Aid_Kit
+83,Amenities_Safety_Card
+84,Amenities_Fire_Extinguisher
+85,Amenities_Essentials
+86,Amenities_Pets_Allowed
+87,Amenities_Pets_live_on_this_property
+88,Amenities_Dogs
+89,Amenities_Cats
+90,Amenities_Hot_Tub
+91,Amenities_Indoor_Fireplace
+92,Amenities_Shampoo
+93,Amenities_Breakfast
+94,Amenities_24_Hour_Check_in
+95,Amenities_Hangers
+96,Amenities_Hair_Dryer
+97,Amenities_Iron
+98,Amenities_Laptop_Friendly_Workspace
+99,Amenities_Suitable_for_Events
+100,Amenities_Elevator_in_Building
+101,Amenities_Lock_on_Bedroom_Door
+102,Amenities_Wheelchair_Accessible
+103,Amenities_Gym
+104,Amenities_Pool
+105,Amenities_Smoking_Allowed
+106,Amenities_Other_pets
+107,Amenities_Doorman
+108,Amenities_Washer_Dryer
+109,date
+110,available
+111,price_y
