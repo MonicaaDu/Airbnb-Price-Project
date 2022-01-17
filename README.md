@@ -1,5 +1,5 @@
 # Airbnb-Price-Project
-Airbnb Price Project for DS 
+Airbnb Price Project for Data Scientist Nanodegree from Udacity
 
 # File Description
 - images_outputs: this folders stores the .png outputs from the notebook, such as charts and graphs.
