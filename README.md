@@ -13,3 +13,6 @@ Make sure to having anaconda installed. Launch the Jupyter Notebook and use it t
 Thanks for [Aleksandra Deis](https://www.kaggle.com/aleksandradeis) and [marceloestevam](https://github.com/marceloestevam). Their notebooks helped me a lot to data prepare and make some visualizations found on my notebook.
 
 You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle).
+
+# Result
+The main findings of the code can be found at the post available here at [Medium](https://medium.com/@duante1231/find-good-deal-in-seattle-airbnb-when-visiting-by-data-science-b1690003a2e4.
